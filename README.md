@@ -12,4 +12,4 @@ Run this app (localhost) with :
     yarn start
 ```
 
-Or you can see this project on [link](https://raksye-speedwritter.github.io)
+Or you can see this project on [link](https://raksyespeedwritter.netlify.com)
